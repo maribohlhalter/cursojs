@@ -1,0 +1,2 @@
+alert ("somenthing");
+prompt ("tralala");
