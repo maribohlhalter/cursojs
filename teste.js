@@ -1,2 +1,0 @@
-alert ("somenthing");
-prompt ("tralala");
